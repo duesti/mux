@@ -1,4 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&pause=1000&color=4E94F7&width=435&lines=%F0%9F%9A%80+Mux+%E2%80%94+Minimalist+AI+Chat+Interface)
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
 ## 📸 Скриншоты:
 <img width="1440" height="1024" alt="mux" src="https://github.com/user-attachments/assets/3f1bf798-79de-4379-b2f4-f3f1a693259b" />
