@@ -1,4 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&pause=1000&color=4E94F7&width=435&lines=%F0%9F%9A%80+Mux+%E2%80%94+Minimalist+AI+Chat+Interface)
+## 📸 Скриншоты:
+<img width="1440" height="1024" alt="mux" src="https://github.com/user-attachments/assets/3f1bf798-79de-4379-b2f4-f3f1a693259b" />
+<img width="1440" height="1024" alt="mux-dialogue" src="https://github.com/user-attachments/assets/e3136bb7-eccd-4213-8cc6-8628ef684ca4" />
 
 Mux — это быстрый, легковесный и минималистичный веб-интерфейс (чат-клиент) для локальных и облачных языковых моделей, спроектированный с упором на приватность, UX и фокусную работу. Приложение вдохновлено интерфейсами передовых ИИ-ассистентов для разработчиков и поддерживает бесшовное переключение контекстов, управление историей чатов и гибкую настройку генерации (Effort Level).
 
@@ -41,8 +44,4 @@ bun dev или с помощью yarn/bun/pnpm
 ```
 
 Откройте http://localhost:3000 в браузере.
-
-## 📸 Скриншоты
-<img width="1440" height="1024" alt="mux" src="https://github.com/user-attachments/assets/3f1bf798-79de-4379-b2f4-f3f1a693259b" />
-<img width="1440" height="1024" alt="mux-dialogue" src="https://github.com/user-attachments/assets/e3136bb7-eccd-4213-8cc6-8628ef684ca4" />
 
