@@ -2,8 +2,8 @@
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
 ## 📸 Скриншоты:
-<img width="1440" height="1024" alt="mux" src="https://github.com/user-attachments/assets/3f1bf798-79de-4379-b2f4-f3f1a693259b" />
-<img width="1440" height="1024" alt="mux-dialogue" src="https://github.com/user-attachments/assets/e3136bb7-eccd-4213-8cc6-8628ef684ca4" />
+<img width="1440" height="1024" alt="mux" src="https://github.com/user-attachments/assets/51c3a158-a727-4a2e-aa28-1c2883a9ca74" />
+
 
 
 Mux — это быстрый, легковесный и минималистичный веб-интерфейс (чат-клиент) для локальных и облачных языковых моделей, спроектированный с упором на приватность, UX и фокусную работу. Приложение вдохновлено интерфейсами передовых ИИ-ассистентов для разработчиков и поддерживает бесшовное переключение контекстов, управление историей чатов и гибкую настройку генерации (Effort Level).
